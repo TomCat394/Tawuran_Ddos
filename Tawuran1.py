@@ -77,7 +77,7 @@ def usage():
 	print (''' \033[92mTawuran_Ddos Script v.1 http:/www.google.com
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
-	usage : python3 sonik.py [-s] [-p] [-t]
+	usage : python3 Tawuran1.py [-s] [-p] [-t]
 	-h : help (tolong)
 	-s : server ip
 	-p : port default 80
